@@ -1,5 +1,7 @@
-# UnrealEngine4
-UE4 related useful code snippets:
+# UnrealEngine4 useful C++ code.
+
+A lot of  UE4 programming examples are done with BluePrints.
+While such an approach is fine for small scripting logic,when it comes to complex scenarios the whole node structure becomes hardly readble and maintainable.Also programmers usually prefer 'real' code,instead of fancy visual coding framework. Here I release some of my own implementations in C++ which I use in personal projects and which I am really happy to share with others.
 
 ## Pawn based camera setup
 
