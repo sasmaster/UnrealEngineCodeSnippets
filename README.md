@@ -15,8 +15,15 @@ SLPawn.h SLPawn.cpp
  
  SLPLayerController can be replaced by default PlayerController.
  
+ Tested on 4.21 4.22
+ 
+ ## Customized virtual keyboard for Android with "Send" button at the same line with input text field.
+ 
+ Modified version of GameActivity.java.template which adds a message send button like the on in Whatsapp messenger to
+ UE Android Virtual Keyboard.  Unreal Engine 5.2
+ 
  
  ## Bug fixes and other contributions are welcomed.
  
  
- Tested on 4.21 4.22
+ 
